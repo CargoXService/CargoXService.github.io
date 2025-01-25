@@ -1,0 +1,4 @@
+Options -Indexes
+
+ErrorDocument 404 /assets/error.html
+ErrorDocument 403 /assets/error.html
